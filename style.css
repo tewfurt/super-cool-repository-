@@ -10,7 +10,7 @@ html {
 
 body {
   background-color: #fff0f6;
-  font-family: "Protest Riot", sans-serif;
+  font-family: "comic sans", 'Times New Roman', Times, serif;
 }
 
 .container {
@@ -27,6 +27,11 @@ body {
   width: 30rem;
   height: 30rem;
   margin-bottom: 2rem;
+}
+
+.cat-img.smaller {
+  width: 15rem;
+  height: 15rem;
 }
 
 .title {
