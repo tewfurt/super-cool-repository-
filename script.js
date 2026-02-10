@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "heh......... i knew you'd say yes [on some nonchalant jayson gainza shi]";
+  titleElement.innerHTML = "heh......... i knew you'd say yes [on some nonchalant jayson gainza shi] <br> libre ka ba this friday or saturday?";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
